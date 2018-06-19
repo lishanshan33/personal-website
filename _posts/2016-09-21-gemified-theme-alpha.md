@@ -40,7 +40,6 @@ SVG会有一个由生成它的图形编辑程序定义的命名空间（xmlns是
 ## 元素g  
 
 g元素能把其他元素捆绑在一起。例如，你要画一辆车的SVG，你会把用来构成车轮的形状 用g标签集合起来。   
-> <g id="Page-1" stroke="none" stroke-width="1" fill="none" fillrule=" evenodd" sketch:type="MSPage">  
 在g标签中我们可以看到先前的命名空间。这会有助于图形编辑软件再次打开这个图像，但 是它对于这个图片在其他地方展示并没有影响。
 
 ## svg的优势 
