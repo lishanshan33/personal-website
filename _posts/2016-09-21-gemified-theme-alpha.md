@@ -34,22 +34,9 @@ SVG的根元素有width、height和viewbox属性。
 
 ## SVG的命名空间  
 
-SVG会有一个由生成它的图形编辑程序定义的命名空间（xmlns是XML命名空间的缩写）。 
-xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"   
+SVG会有一个由生成它的图形编辑程序定义的命名空间（xmlns是XML命名空间的缩写）。  
 这些命名空间往往只是在生成SVG的程序中使用，所以在Web页面上展示SVG的时候它们并不是必需的。因此在优化流程中，为了减小SVG的大小，通常会把它们去掉。
- 
-##  SVG的标题和描述标签
-
-title和desc标签提高了SVG文档的可读性。   
-<title>Star 1</title>   
-0<desc>Created with Sketch.</desc>   
-这些标签可以用来在图像不可见的情况下描述图像的内容。然而，当SVG图片被应用为背景 图片的时候，可以去除这些标签来减小文件大小。  
-
-## defs标签  
-
-<defs></defs>   
-这是一个十分重要的元素，它是用于储存所有可以复用 的元素定义的地方，如梯度、符号、路径等。  
-
+  
 ## 元素g  
 
 g元素能把其他元素捆绑在一起。例如，你要画一辆车的SVG，你会把用来构成车轮的形状 用g标签集合起来。   
