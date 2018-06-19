@@ -104,7 +104,7 @@ author:
   name             : "李姗姗"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an special person."
-  location         : "广东"
+  location         : "guangdong"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
