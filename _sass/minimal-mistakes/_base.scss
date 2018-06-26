@@ -15,15 +15,6 @@ body {
   font-family: $global-font-family;
   line-height: 1.5;
 
-  background-color:blue;
-  background-image: 
-  radial-gradient(circle at 100% 150%, blue 24%, white 25%, white 28%, blue 29%, blue 36%, white 36%, white 40%, transparent 40%, transparent),
-  radial-gradient(circle at 0    150%, blue 24%, white 25%, white 28%, blue 29%, blue 36%, white 36%, white 40%, transparent 40%, transparent),
-  radial-gradient(circle at 50%  100%, white 10%, blue 11%, blue 23%, white 24%, white 30%, blue 31%, blue 43%, white 44%, white 50%, blue 51%, blue 63%, white 64%, white 71%, transparent 71%, transparent),
-  radial-gradient(circle at 100% 50%, white 5%, blue 6%, blue 15%, white 16%, white 20%, blue 21%, blue 30%, white 31%, white 35%, blue 36%, blue 45%, white 46%, white 49%, transparent 50%, transparent),
-  radial-gradient(circle at 0    50%, white 5%, blue 6%, blue 15%, white 16%, white 20%, blue 21%, blue 30%, white 31%, white 35%, blue 36%, blue 45%, white 46%, white 49%, transparent 50%, transparent);
-  background-size: 100%
-  
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
