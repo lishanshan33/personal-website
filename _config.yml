@@ -102,19 +102,19 @@ analytics:
 # Site Author
 author:
   name             : "李姗姗"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an special person."
-  location         : "guangdong"
+  avatar           : "/images/Head portrait.jpg"
+  bio              : "中山大学南方学院 网络与新媒体"
+  location         : "广东"
   email            :
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : "/images/home-page-feature.jpg"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://gitee.com/lishanshan33/"
   gitlab           :
   google_plus      :
   keybase          :
@@ -128,7 +128,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            :
+  weibo            : "姗3-"
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
