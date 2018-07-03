@@ -5,7 +5,6 @@ categories:
   - 网页设计
 tags:
   - svg
-classes：wide
 ---
 
 excerpt: "SVG允许在代码中使用矢量点来描述二维图像，相比位图具有特殊优势"
