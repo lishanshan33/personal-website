@@ -7,12 +7,6 @@ tags:
   - svg
 ---
 
-excerpt: "SVG允许在代码中使用矢量点来描述二维图像，相比位图具有特殊优势"
-header:
-  overlay_image: /images/页头照片1.jpg
-  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  # cta_label: "More Info"+  cta_url: "https://unsplash.com"
-
 {% include base_path %}
 
 {% include toc title="Getting Started" %}
