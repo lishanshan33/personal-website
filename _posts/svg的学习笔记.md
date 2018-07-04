@@ -4,7 +4,27 @@ modified: 2018-06-19T20:00:00-21:00
 categories: 
   - 网页设计
 tags:
+  - svg
+  
+classes: wide
+header:
+  overlay_image: /images/home-page1.jpg
+# caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+# cta_label: "More Info"
+# cta_url: "https://unsplash.com"
+
+---
+
+{% include base_path %}
+
+{% include toc title="Getting Started" %}
+
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+
 svg允许在代码中使用矢量点来描述二维图像。 
+
 ## svg的基本信息
 
 - SVG 指可伸缩矢量图形 (Scalable Vector Graphics)
