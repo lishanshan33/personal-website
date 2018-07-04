@@ -24,6 +24,7 @@ description              : "使用Jekyll搭建的网站"
 url                      : "https://lishanshan33.gitee.io"
 baseurl                  : "/minimal-mistakes"
 repository               : "lishanshan33/minimal-mistakes"
+affiliation: "中山大学南方学院 <a href = 'http://e.nfu.edu.cn/my/'>网络与新媒体</a> 由 <a href='http://newmedia.nfu.edu.cn/zh/team/%E5%90%B4%E9%9B%AA/#more-134'>吴雪</a> 指导"
 teaser                   : "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -128,7 +129,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            : "https://weibo.com/u/2088239193/"
+  weibo            : "https://weibo.com/u/2088239193/home?wvr=5&lf=reg"
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
