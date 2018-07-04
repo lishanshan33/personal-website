@@ -15,8 +15,8 @@ $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 /* system typefaces 使用中文字形 */
-$serif: Songti,Kaiti SC,KaiTi,DFKai-SB,BiauKai,\\6977\4F53,\\6977\4F53_GB2312,STHeiti,Songti SC,Georgia, Times, serif !default;
-$sans-serif:STHeiti,\\534E\6587\9ED1\4F53,华文黑体,"Helvetica Neue","Segoe UI",-apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$serif: STSong,Kaiti SC,KaiTi,DFKai-SB,BiauKai,\\6977\4F53,\\6977\4F53_GB2312,STHeiti,Songti SC,DFKai-SB,Georgia, Times, serif !default;
+$sans-serif:DFKai-SB,\6807\6977\4F53,标楷体,"Helvetica Neue","Segoe UI",-apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
 +  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
