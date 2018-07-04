@@ -2,7 +2,7 @@
 title:  "学习制作svg动图的心得"
 modified: 2018-06-19T21:00:-22:00
 categories: 
-  - 网页设计
+  - SVG制作
 tags:
   - svg
 ---
