@@ -1,4 +1,5 @@
 ---
+layout: archive
 title:  "界面设计的第二篇笔记"
 
 categories: 

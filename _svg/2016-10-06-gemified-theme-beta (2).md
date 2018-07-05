@@ -1,4 +1,5 @@
 ---
+layout: archive
 title:  "svg的学习笔记"
 modified: 2018-06-19T20:00:00-21:00
 categories: 
