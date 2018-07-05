@@ -103,12 +103,12 @@ analytics:
 # Site Author
 author:
   name             : "李姗姗"
-  avatar           : "/images/Head-portrait.jpg"
+  avatar           : "/images/Head_portrait.jpg"
   bio              : "中山大学南方学院 网络与新媒体"
   location         : "广东"
   email            :
   uri              : "https://gitee.com/lishanshan33/"
-  home             : "/images/home-page-feature.jpg"
+  home             : "/images/home_page-feature.jpg"
   bitbucket        :
   codepen          :
   dribbble         :

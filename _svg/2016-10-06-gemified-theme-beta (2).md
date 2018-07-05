@@ -9,7 +9,7 @@ tags:
   
 classes: wide
 header:
-  overlay_image: /images/home-page1.jpg
+  overlay_image: /images/home_page1.jpg
 # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 # cta_label: "More Info"
 # cta_url: "https://unsplash.com"
