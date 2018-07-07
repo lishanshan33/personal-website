@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "zh-CN"
 title                    : "李姗姗个人网站"
-title_separator          : "或者其实很好，再吃一颗苹果"
+title_separator          : "："
 name                     : "李姗姗"
 description              : "使用Jekyll搭建的网站"
 url                      : "https://lishanshan33.gitee.io"
