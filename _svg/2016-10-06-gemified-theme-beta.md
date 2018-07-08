@@ -1,4 +1,5 @@
 ---
+layout: archive
 title:  "学习svg的心得"
 modified: 2018-06-19T21:00:-22:00
 categories: 
