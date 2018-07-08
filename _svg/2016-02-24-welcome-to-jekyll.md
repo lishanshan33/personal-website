@@ -15,7 +15,7 @@ header:
   
 ---
 
-### 插入svg动图
+### svg动图
 
 <svg version="1.1" id="preloader" x="0px" y="0px" width="240px" height="120px" viewBox="0 0 240 120">
 
@@ -73,6 +73,8 @@ L146.48,87.02z"/>
 	<mpath xlink:href="#loop-offset"/>
 </animateMotion>  
 </svg>
+
+### 步骤
 
 ![svg](https://gitee.com/lishanshan33/minimal-mistakes/raw/master/images/svg.PNG){: .align-center}
 
