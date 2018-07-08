@@ -10,7 +10,15 @@ tags:
 header:
  image: /images/home_page3.jpg
  
+ sidebar:
+  nav: "docs"
+  
 ---
+
+{% include base_path %}
+
+{% include toc title="目录" %}
+
 ### 插入svg动图
 
 ![svg](https://gitee.com/lishanshan33/minimal-mistakes/raw/master/images/svg.PNG){: .align-center}
