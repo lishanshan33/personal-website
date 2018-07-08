@@ -6,6 +6,10 @@ categories:
   - SVG制作
 tags:
   - svg
+  
+header:
+ image: /images/home_page3.jpg
+ 
 ---
 ### 插入svg动图
 
