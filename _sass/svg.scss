@@ -11,3 +11,18 @@ svg {
   height: 100%;
 }
 
+
+<style>
+       <style>
+            #star {
+                transition:width 3s, height 3s, transform 3s;
+                -webkit-transition:width 3s, height 3s, -webkit-transform 3s;   
+            }
+            #star:hover 
+            {
+                transform:rotate(270deg);
+                -webkit-transform:rotate(-270deg); 
+            }
+
+       </style>
+</style>
