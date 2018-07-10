@@ -1,5 +1,5 @@
 ---
-title:  "界面设计的第二篇笔记"
+title:  "界面设计之路径问题"
 modified: 2018-06-26 T16:03:49-04:00
 categories: 
   - 界面设计
@@ -12,7 +12,7 @@ tags:
 {% include toc title="目录" %}
 
 
-## 界面设计的第二篇笔记
+## 界面设计之路径问题
 
 ## 使用colleciton样式制作导航栏中的“SVG制作”
 
