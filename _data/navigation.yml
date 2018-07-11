@@ -10,6 +10,4 @@ main:
     url: /design/#平面设计
   - title: "About"
     url: /about/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
     
