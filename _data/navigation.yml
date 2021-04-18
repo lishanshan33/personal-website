@@ -3,11 +3,11 @@ main:
   - title: "简书"
     url: https://www.jianshu.com/u/22f52813b556
   - title: "SVG制作"
-    url: /svg/
+    url: https://nfunm039.gitee.io/minimal-mistakes/svg/
   - title: "界面设计"
-    url: /design/#界面设计
+    url: https://nfunm039.gitee.io/minimal-mistakes/design/#%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1
   - title: "平面设计"
-    url: /design/#平面设计
+    url: https://nfunm039.gitee.io/minimal-mistakes/design/#%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1
   - title: "About"
-    url: /about/
+    url: https://nfunm039.gitee.io/minimal-mistakes/about/
     
