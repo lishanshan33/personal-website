@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "SVG"
+title: "自我策展"
 permalink: /svg/
 author_profile: false
 ---
