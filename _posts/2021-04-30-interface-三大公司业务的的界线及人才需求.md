@@ -5,6 +5,11 @@ categories:
   - 市场时事
 tags:
   - 笔记
+  
+header:
+ 
+sidebar:
+  nav: "docs"
 ---
 
 {% include base_path %}
