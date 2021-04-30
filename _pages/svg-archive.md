@@ -2,7 +2,7 @@
 layout: archive
 title: "自我策展"
 permalink: /svg/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
