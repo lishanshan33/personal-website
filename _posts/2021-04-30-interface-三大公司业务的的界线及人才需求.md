@@ -1,15 +1,12 @@
 ---
+
+layout: archive
 title:  "三大公司业务的的界线及人才需求"
-modified: 2021-04-18T20:00:00-21:00
+
 categories: 
   - 市场时事
 tags:
   - 笔记
-  
-header:
- 
-sidebar:
-  nav: "docs"
 ---
 
 {% include base_path %}
