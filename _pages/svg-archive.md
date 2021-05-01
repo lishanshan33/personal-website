@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "自我策展"
+title: "基本概念"
 permalink: /svg/
 author_profile: true
 ---
