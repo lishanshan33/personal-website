@@ -1,12 +1,13 @@
 ---
 title:  "对数字经济创新发展的思考"
-modified: 2021-05-15T20:00:00-21:00
+modified: 2021-05-15 T16:03:49-04:00
 categories: 
   - 市场时事
 tags:
   - 笔记
   
-  
+header:
+ 
 sidebar:
   nav: "docs"
   
@@ -16,8 +17,8 @@ sidebar:
 
 {% include toc title="目录" %}
 
-
 ---
+
 
 > 近来腾讯研究院首席经济学顾问吴绪亮在2021年第3期《清华管理评论》，发布[《新发展格局下数字经济创新的战略要点》](https://mp.weixin.qq.com/s/C0QoSuHfAuBNxMO7GWTO1Q)中谈及到，基于PaaS和SaaS平台的低代码乃至无代码开发和API经济等特征则为新发展格局注入了创新的巨大动能，有助于加快推进我国产业向全球产业链高端延伸，实现产业基础高级化、产业链现代化，提升制造业创新力、经济活力和全球竞争力。
 
@@ -48,5 +49,3 @@ sidebar:
 
 #### 参考链接：
 - [《新发展格局下数字经济创新的战略要点》](https://mp.weixin.qq.com/s/C0QoSuHfAuBNxMO7GWTO1Q)
-
-
