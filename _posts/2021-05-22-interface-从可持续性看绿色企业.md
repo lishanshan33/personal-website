@@ -23,8 +23,7 @@ sidebar:
 ![可持续发展](https://i.loli.net/2021/05/22/nCKa52rSdiTDMy4.png)
 
 ### 可持续网页设计
-- Tim Frick是《可持续性设计》的作者，同时也是Mightybytes公司的首席执行官，Mightybytes是一家共益企业，为有良知的公司提供数字创意解决方案。[sustainable web design]
-(https://www.mightybytes.com/blog/sustainable-web-design/) 是一种设计数字产品和服务的方法，该方法将人与地球置于首位。它尊重《可持续网络宣言》的原则，该原则要求建立一个清洁、高效、开放、诚实、再生能源和有弹性的互联网。可持续网页设计希望帮助企业和广大网络社区了解如何设计更具可持续性的数字产品和服务，同时还要优先考虑业务目标和用户需求。且该网站强调为了成功解决气候危机并实现零排放经济，各行各业的组织都需要减少排放并从系统中设计废物。
+- Tim Frick是《可持续性设计》的作者，同时也是Mightybytes公司的首席执行官，Mightybytes是一家共益企业，为有良知的公司提供数字创意解决方案。[sustainable web design](https://www.mightybytes.com/blog/sustainable-web-design/) 是一种设计数字产品和服务的方法，该方法将人与地球置于首位。它尊重《可持续网络宣言》的原则，该原则要求建立一个清洁、高效、开放、诚实、再生能源和有弹性的互联网。可持续网页设计希望帮助企业和广大网络社区了解如何设计更具可持续性的数字产品和服务，同时还要优先考虑业务目标和用户需求。且该网站强调为了成功解决气候危机并实现零排放经济，各行各业的组织都需要减少排放并从系统中设计废物。
 
 ### Ecograder
 - [Eco-Grader](https://www.ecograder.com/)是Mightybytes推出的基于Web的应用程序，Ecograder使网站所有者可以轻松地测试其网站的可持续性并减少其碳足迹。此外，Ecograder将在网站性能，可发现性，设计和用户体验以及使用“绿色”成分（例如虚拟主机）等方面评估网站。除了显示网站得分以外，该应用程序还将生成报告，其中包含定制建议，以使相关站点更加环保。
@@ -37,7 +36,7 @@ sidebar:
 
 ### WEDC
 
-的确，早在2019，世界生态设计大会[WEDC](https://www.unido.org/news/eco-design-promotes-inclusive-sustainable-industrial-development)以鼓励国际交流生态设计方面的成功经验，创意和创新做法， 建立一个全球生态设计促进网络，促进包容性可持续工业发展。Tim Frick在《可持续性设计》一书中引入了一个Web设计框架，关注于内容策略、性能优化、设计和用户体验、绿色托管；Tim Frick也是关注于如何提供可持续性的数字产品和服务。
+- 的确，早在2019，世界生态设计大会[WEDC](https://www.unido.org/news/eco-design-promotes-inclusive-sustainable-industrial-development)以鼓励国际交流生态设计方面的成功经验，创意和创新做法， 建立一个全球生态设计促进网络，促进包容性可持续工业发展。Tim Frick在《可持续性设计》一书中引入了一个Web设计框架，关注于内容策略、性能优化、设计和用户体验、绿色托管；Tim Frick也是关注于如何提供可持续性的数字产品和服务。
 
 ### 个人PS-sustainable web design
 
